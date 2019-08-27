@@ -1,7 +1,3 @@
-//
-// Created by William Marringa on 2019-02-28.
-//
-
 #include "msdAlloc.h"
 #include <sys/mman.h>
 
